@@ -6,16 +6,23 @@
     "start": "node ./src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Erick Rodriguez",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "heroku": "^7.35.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.7.12",
+    "mongoose": "^5.7.13",
+    "request": "^2.88.0",
     "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
   },
   "description": ""
 }
