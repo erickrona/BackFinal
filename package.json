@@ -1,13 +1,12 @@
 {
   "name": "mongo",
   "version": "1.0.0",
-  "description": "",
   "main": "mongo.js",
   "scripts": {
     "start": "node ./src/app.js"
   },
   "keywords": [],
-  "author": "Erick Rodriguez",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -18,7 +17,5 @@
     "mongoose": "^5.7.12",
     "validator": "^10.11.0"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.1"
-  }
+  "description": ""
 }
